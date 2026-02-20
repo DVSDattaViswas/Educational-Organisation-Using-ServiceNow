@@ -8,8 +8,11 @@ A fully functional Educational Management System built on the ServiceNow Platfor
 
 👥 Team Members
 A Akhil – ServiceNow Developer &UI/UX & Form Designer
+
 D V S Datta – Client Scripts & Table Developer
+
 D Veera Manikanta – Testing & Documentation
+
 K Sukumar – Demo & Deployment
 
 📌 Overview
